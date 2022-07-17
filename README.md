@@ -18,7 +18,7 @@ Create scatter plots with Plotly Express and hvplot to visualize the grouping of
 
 ## Results
 - After reducing the data dimension by employing PC and using the elbow curve to find the best value for K, it is revealed that there are 4 groups of cryptocurrencies in the market.
-    ![4Clusters]()
+    ![4Clusters](https://github.com/SzeWingChan/Cryptocurrencies/blob/main/Resources/4Clusters.png)
 
 - However, in order to offer a new investment portfolio, it is also important to check if the currency is available in the market.  Therefore, a scatter plot is used to reveal the availability of individual currency.  Most of the Class 2 and 3 cryptocurrencies are still available for mining and these could be the potential cryptocurrencies to be included in the new investment portfolio. 
-    ![Cryptocurrencies]()
+    ![Cryptocurrencies](https://github.com/SzeWingChan/Cryptocurrencies/blob/main/Resources/Cryptocurrencies.png)
